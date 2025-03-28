@@ -4,8 +4,8 @@ Decided to follow along with [davepoo's](https://github.com/davepoo/6502Emulator
 
 I've also made a little terminal debugger toy thing for it? Currently only builds for Windows, but the actual emulation code should compile just fine regardless...
 
-[!NOTE]  
-This emulators accuracy is questionable *at best*, play with at your own discretion! I'd say it's close to being as accurate as the original emulator was, go check it out! 
+> [!NOTE]  
+> This emulators accuracy is questionable *at best*, play with at your own discretion! I'd say it's close to being as accurate as the original emulator was, go check it out! 
 
 This is all a bit scuffed but it was fun practice! I'm not sure if ill continue from where they left off..
 
